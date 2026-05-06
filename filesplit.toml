@@ -1,0 +1,7 @@
+# filesplit default configuration
+# CLI flags override these values
+
+preserve_header = true
+# output_dir = "./output"
+# prefix = "part"
+dry_run = false
