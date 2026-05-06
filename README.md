@@ -29,7 +29,7 @@ Splits large files by size or row count while **preserving row boundaries** and 
 ### From source (requires Rust 1.75+)
 
 ```bash
-git clone https://github.com/you/filesplit
+git clone https://github.com/keerthana-ai23/filesplit
 cd filesplit
 cargo build --release
 # Binary at: ./target/release/filesplit
